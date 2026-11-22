@@ -1,0 +1,19 @@
+{
+  "format": "dsh-games-feed",
+  "version": 1,
+  "name": "renzg 的小游戏",
+  "author": "renzg",
+  "updatedAt": "2026-11-22T01:13:43.006Z",
+  "games": [
+    {
+      "slug": "moon-oxygen",
+      "title": "月球基地氧气罐",
+      "url": "moon-oxygen/",
+      "cover": "moon-oxygen/cover.jpg",
+      "dimension": "3d",
+      "orientation": "portrait",
+      "publishedAt": "2026-11-22T01:13:43.006Z"
+    }
+  ],
+  "wall": null
+}

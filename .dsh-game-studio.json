@@ -1,0 +1,16 @@
+{
+  "tool": "dsh-game-studio",
+  "version": 1,
+  "games": {
+    "moon-oxygen": {
+      "title": "月球基地氧气罐",
+      "source": "f47cfe4589420d26",
+      "publishedAt": "2026-11-22T01:13:43.006Z",
+      "buildId": "35cbe922aca8",
+      "dimension": "3d",
+      "orientation": "portrait",
+      "cover": "moon-oxygen/cover.jpg"
+    }
+  },
+  "wall": null
+}
